@@ -38,7 +38,7 @@ public class Opg1 {
         var sum3 = (sum2*60); //meter i timen
         var sum4 = (sum3/1000); //meter lavet om til km
         System.out.println(sum4);
-        //jamen det er bare en test
+        //jamen det er bare en test 12312 3
 
 
 
